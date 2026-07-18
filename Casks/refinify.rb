@@ -1,6 +1,6 @@
 cask "refinify" do
-  version "1.7.0"
-  sha256 "431a94d5e0ecdbf2372b3d725efcd3f0c1d08c6e3c44a1e74e572d794a850686"
+  version "1.9.0"
+  sha256 "3ca662b772e633e2a4e313b1b8b7d584e8fdc16ce8d70a9dbce4fb35948f106b"
 
   url "https://github.com/moisei-dev/refinify/releases/download/v#{version}/refinify-mac-#{version}-installer.dmg"
   name "Refinify"
